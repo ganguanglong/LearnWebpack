@@ -22,8 +22,8 @@
 2. 初始化npm <br />
     >npm init
 3. 安装webpack<br />
-    >npm install webpack --save--dev<br />
-![](https://github.com/ganguanglong/LearnWebpack/blob/master/assets/webpack_2-1.png)    
+    >npm install webpack --save--dev <br />
+<br />![](https://github.com/ganguanglong/LearnWebpack/blob/master/assets/webpack_2-1.png)    
 4. 编写你的项目
 5. 打包<br />
         >webpack "文件名" "打包后的文件名" 例如(webpack hello.js hello.bundle.js)
