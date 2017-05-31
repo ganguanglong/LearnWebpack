@@ -11,7 +11,7 @@
   （例如：html,json,image,css,less等等）
 - （pulging system）插件系统
 - 打包过程：
-![](https://github.com/ganguanglong/LearnGithub/what-is-webpack.png)
+![](https://github.com/ganguanglong/LearnWebpack/blob/master/what-is-webpack.png)
 - 目标
   - 减少加载时间
   - 把各种模块作为静态文件被引用 
